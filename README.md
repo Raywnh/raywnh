@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 📕I am a Computer Engineering student @UBC with a passion for software engineering, game development.
+
+Connect with me @linkedin.com/in/ray-ho-wnh/
+Contact me @rayhownh@gmail.com
