@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📕I am a Computer Engineering student @UBC with a passion for software engineering, game development, and computers in general.
+📕I am a Computer Engineering student @UBC with a passion for software engineering, game development.
