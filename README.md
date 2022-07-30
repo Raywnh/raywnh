@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📕My name is Ray and I'm a Computer Engineering Student @UBC\n
+📕My name is Ray and I'm a Computer Engineering Student @UBC
+
 💡I am currently interested in software engineering and game development
