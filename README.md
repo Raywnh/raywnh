@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 📕I am a Computer Engineering student @UBC with a passion for software engineering in the biomedical field.
 
-🔭 I'm currently working with UBC Bionics as an embedded software developer on a bionic arm for enhancing the motor functions of physically impaired people
+🔭 I'm currently working with UBC Bionics as an embedded software developer
 
 Connect with me: [linkedin.com/in/ray-ho-wnh](https://www.linkedin.com/in/ray-ho-wnh/)
 
