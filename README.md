@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📕I am a Computer Engineering student @UBC with a passion for software engineering 
+📕I am a Computer Engineering student @UBC with a passion for software engineering, currently a SWE intern @ Alida 
 
 Connect with me: [linkedin.com/in/ray-ho-wnh](https://www.linkedin.com/in/ray-ho-wnh/)
 
